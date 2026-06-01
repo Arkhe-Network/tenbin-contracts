@@ -9,4 +9,6 @@
 **/.certora_internal
 .vscode
 **/crytic-export/
-**/echidna-corpus
+**/echidna-corpus/
+
+arkhe-substrato-1010-zkcbdc/**/__pycache__/
