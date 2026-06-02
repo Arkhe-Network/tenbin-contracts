@@ -12,3 +12,9 @@
 **/echidna-corpus/
 
 arkhe-substrato-1010-zkcbdc/**/__pycache__/
+__pycache__/
+*.pyc
+a.out
+fix_verilog.py
+parse_user_input.py
+split_input.py
